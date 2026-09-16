@@ -4,6 +4,5 @@ public class Main {
     public static void main(String[] args) {
         // Ez egy egyszerű Java program, amely kiírja a "Hello World" üzenetet a konzolra.
         System.out.println("Asd!");
-
     }
 }
