@@ -1,4 +1,7 @@
-# Hello World
+# Hello World (Request blocked link: https://www.atlassian.com/git/tutorials/using-branches)
+
+Nem tudom kihez tartozik. Itt próbálom jelezni, mert levelezős tanuló vagyok és sajnos nem tudok az órán érszt venni.
+Github elérés: https://github.com/epam-nye-cooperation/epam-nye-progtech/blob/main/lessons/week_2_lesson_1/README.md
 
 Feladatok:
 
