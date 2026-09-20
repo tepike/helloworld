@@ -6,6 +6,7 @@ public class Main {
         //Ez egy hello wolrd program
         System.out.println("Hello World!");
         //Valamicske
+
 >>>>>>> kommentek
     }
 }
